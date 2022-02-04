@@ -1,6 +1,6 @@
 # Decompile with IDA
 
-/* Decompile_Code */
+#/* Decompile_Code */
 int __cdecl main(int argc, const char **argv, const char **envp)
 {
   char v4[256]; // [rsp+20h] [rbp-118h] BYREF
@@ -19,8 +19,9 @@ _BOOL8 __fastcall sub_140001000(const char *a1)
 {
   return strcmp(a1, "Compar3_the_str1ng") == 0;
 }
-//
 
+'''
 =========================================================
-# DH{Compar3_the_str1ng}
+DH{Compar3_the_str1ng}
 =========================================================
+'''

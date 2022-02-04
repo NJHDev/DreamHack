@@ -1,6 +1,6 @@
 # Decompile with IDA
 
-/* Decompile Code*/
+#/* Decompile Code*/
 _BOOL8 __fastcall sub_140001000(_BYTE *a1)
 {
   if ( *a1 != 67 )
@@ -50,6 +50,8 @@ _BOOL8 __fastcall sub_140001000(_BYTE *a1)
 
 #Ascii to String
 
+'''
 =========================================================
 #DH{Compar3_the_ch4ract3r}
 =========================================================
+'''
