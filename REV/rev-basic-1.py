@@ -1,6 +1,7 @@
 # Decompile with IDA
 
 #/* Decompile Code*/
+'''
 _BOOL8 __fastcall sub_140001000(_BYTE *a1)
 {
   if ( *a1 != 67 )
@@ -47,6 +48,7 @@ _BOOL8 __fastcall sub_140001000(_BYTE *a1)
     return a1[21] == 0;
   return 0i64;
 }
+'''
 
 #Ascii to String
 

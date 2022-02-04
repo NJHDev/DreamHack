@@ -1,6 +1,7 @@
 # Decompile with IDA
 
-/* Decompile Code*/
+#/* Decompile Code*/
+'''
 __int64 __fastcall sub_140001000(__int64 a1)
 {
   int i; // [rsp+0h] [rbp-18h]
@@ -12,6 +13,7 @@ __int64 __fastcall sub_140001000(__int64 a1)
   }
   return 1i64;
 }
+'''
 
 #Compare array "aC[]" Data
 
